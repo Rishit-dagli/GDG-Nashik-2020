@@ -6,4 +6,5 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FGDG-Nashik-2020)
 
-My session at Google Developers Group Nashik 2020
+My session at Google Developers Group Nashik about **Using TensorFLow Hub to make better AI applications**, 22 May 2020. 
+Special thanks to [Mehul Patel](https://twitter.com/rowdymehul) for hosting me.
