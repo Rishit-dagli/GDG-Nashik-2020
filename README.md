@@ -10,3 +10,11 @@ My session at Google Developers Group Nashik about **Using TensorFLow Hub to mak
 Special thanks to [Mehul Patel](https://twitter.com/rowdymehul) for hosting me.
 
 <h3> <a href="https://www.meetup.com/GDG-Nashik/events/270709682/">Event Announcement</a></h3>
+
+![](images/gdg_nashik_cover.jpg)
+  
+  <details>
+  <summary>Credits</summary>
+  Poster designed by Mitesh Pokar
+  </details>
+
