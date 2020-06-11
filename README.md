@@ -9,7 +9,8 @@
 My session at Google Developers Group Nashik about **Using TensorFLow Hub to make better AI applications**, 22 May 2020. 
 Special thanks to [Mehul Patel](https://twitter.com/rowdymehul) for hosting me.
 
-<h3> <a href="https://www.meetup.com/GDG-Nashik/events/270709682/">Event Announcement</a></h3>
+<h2> <a href="https://www.meetup.com/GDG-Nashik/events/270709682/">Event Announcement</a></h2>
+<h2><a href="https://github.com/Rishit-dagli/GDG-Nashik-2020/blob/master/Building%20Better%20AI%20Apps%20with%20TF%20Hub%20_%20GDG%20Nashik.pdf">Slides</a></h2>
 
 ![](images/gdg_nashik_cover.jpg)
   
