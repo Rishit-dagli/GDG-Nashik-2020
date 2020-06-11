@@ -11,6 +11,7 @@ Special thanks to [Mehul Patel](https://twitter.com/rowdymehul) for hosting me.
 
 <h2> <a href="https://www.meetup.com/GDG-Nashik/events/270709682/">Event Announcement</a></h2>
 <h2><a href="https://github.com/Rishit-dagli/GDG-Nashik-2020/blob/master/Building%20Better%20AI%20Apps%20with%20TF%20Hub%20_%20GDG%20Nashik.pdf">Slides</a></h2>
+<h2> <a href="https://www.youtube.com/watch?v=UWBOS06hbfk">Recording</a></h2>
 
 ![](images/gdg_nashik_cover.jpg)
   
